@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1-480</folder>
+	<filename>269-82.jpg</filename>
+	<path>C:\Users\lenovo1\Desktop\ROOT\根管评分\1-480\269-82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1496</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>root</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>1</ymin>
+			<xmax>1190</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

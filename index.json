@@ -1,0 +1,11 @@
+{
+    "labs": [
+        {
+            "1.evaluate.ipynb": "根管检测的训练效果评价"
+        }, {
+            "2.ap_recall_precision": "调参与优化"
+        }, {
+            "3.draw_crop.ipynb": "结果可视化"
+        }
+    ]
+}
